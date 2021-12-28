@@ -4,7 +4,7 @@
 
 ## fitability:tm: &ndash; your friendly fitness activity tracking app ##
 
-fitability is an app that runs on your preferred platform &ndash; web, desktop or mobile &ndash; which traces your fitness activities and share them with your friends or social media.
+fitability:tm: is an app that runs on your preferred platform &ndash; web, desktop or mobile &ndash; which traces your fitness activities and share them with your friends or social media.
 
 It's all open-sourced under the MIT license.
 
