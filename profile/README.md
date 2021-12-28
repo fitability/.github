@@ -1,5 +1,5 @@
 <div>
-    <img src="../assets/github-repo-3840x1920.png" width="240" height="120">
+    <img src="https://raw.githubusercontent.com/fitability/.github/main/assets/github-repo-3840x1920.png" width="240" height="120">
 </div>
 
 ## fitability:tm: &ndash; your friendly fitness activity tracking app ##
