@@ -11,7 +11,7 @@ It's all open-sourced under the MIT license.
 
 ## Repositories ##
 
-* [fitability-apis](https://github.com/fitability/fitability-apis): Backend APIs
+* [fitability-api](https://github.com/fitability/fitability-api): Backend API
 * [fitability-web](https://github.com/fitability/fitability-web): Web app
 * [fitability-power](https://github.com/fitability/fitability-power): Power Apps app
 
